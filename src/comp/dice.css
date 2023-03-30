@@ -1,0 +1,26 @@
+.dice{
+    display: block;
+    float: left;
+    width: 100px ; 
+    height: 100px ; 
+    border: 2px; 
+    border-radius: 10px;
+    margin: 10px;
+}
+.helddice{
+    display: block;
+    float: left;
+    width: 100px ; 
+    height: 100px ; 
+    border: 2px; 
+    border-radius: 5px;
+    margin: 10px;
+    background-color: lightgreen;
+}
+.num{
+    display: flex;
+    justify-content: center ; 
+    align-items: center ;
+    font-size: xx-large ;
+    font-weight:bolder;
+}
